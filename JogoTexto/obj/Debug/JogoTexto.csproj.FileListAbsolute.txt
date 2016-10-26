@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\bin\Debug\JogoTexto.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\obj\Debug\JogoTexto.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\bin\Debug\JogoTexto.exe
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\bin\Debug\JogoTexto.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\obj\Debug\JogoTexto.exe
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\obj\Debug\JogoTexto.pdb
